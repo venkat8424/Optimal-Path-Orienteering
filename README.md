@@ -23,7 +23,8 @@ Championships, held in Mendon Ponds Park.
 
 So, the player has to get to some controls. However, going in a straight line, even if possible, is often not advisable. First 
 of all, the player will be able to proceed at different speeds through different terrains. Rather than telling how fast, 
-the algorithm needs to decide based on some representative photos how fast the player can travel through these terrains:
+the algorithm needs to decide based on some representative photos how fast the player can travel through these terrains. The 
+different types of terrains and their representation on the map is described in the table present in the file "terrainTypes.jpg".
 
 In addition, you will probably go slower uphill, and even slower up steeper hills. As you may have noticed, the landscape 
 changes significantly throughout the year. This can have a big impact on orienteering, as the map itself indicates a sort of 
